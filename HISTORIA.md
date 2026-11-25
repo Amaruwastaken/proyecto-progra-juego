@@ -1017,3 +1017,31 @@ Después se da cuenta de que el verdadero delito fue confiar sin saber si la otr
 La última frase del juego puede ser:
 
 > "No necesitábamos pruebas. Solo necesitábamos dos personas dispuestas a contar una historia distinta."
+
+---
+
+# Versión jugable: el dilema contra EL MODELO
+
+Las decisiones de los cinco actos forman la personalidad de EL MODELO. Se cuentan las elecciones de confianza y sacrificio, las de control y confrontación, y las de miedo:
+
+- Si predominan confianza y sacrificio, el rival es **dócil**.
+- Si predominan control y confrontación, el rival es **agresivo**.
+- Si ninguna tendencia domina claramente, el rival es **neutral**.
+
+En la sala final, Leo elige entre **confesar** y **guardar silencio**. Esa primera decisión cuenta como la primera ronda. La partida continúa hasta que Leo o EL MODELO consiga cinco victorias:
+
+- Si uno confiesa y el otro guarda silencio, quien confiesa queda libre y gana un punto.
+- Si ambos confiesan, reciben dos años y nadie gana un punto.
+- Si ambos guardan silencio, reciben un año y nadie gana un punto.
+
+El comportamiento del rival depende de la personalidad que formó el jugador:
+
+- **Dócil:** guarda silencio en cada ronda.
+- **Agresivo:** confiesa en cada ronda.
+- **Neutral:** empieza guardando silencio y, después, repite la decisión de Leo de la ronda anterior.
+
+El ganador determina el epílogo. Si gana Leo, rompe la predicción de EL MODELO y su relación con Nerea modifica la despedida. Si gana EL MODELO, Armand conserva el control del acuerdo y la historia deja sin confirmar qué decidió Nerea. Así, las elecciones anteriores cambian tanto al rival como el desenlace.
+
+## Modo arcade
+
+El jugador elige una vez si quiere competir contra el modelo dócil, neutral o agresivo. Cada partida dura hasta que alguien consigue cinco victorias; al terminar, el marcador se reinicia y empieza otra partida contra el mismo modelo. En cualquier ronda, el jugador puede elegir volver al menú.
